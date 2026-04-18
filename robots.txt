@@ -36,4 +36,4 @@ Disallow: /enrolled.html
 
 # ── Sitemap location ──
 # Update this URL once you deploy to a real domain
-Sitemap: https://tutorialshub.com/sitemap.xml
+Sitemap: https://tutorialshub1.vercel.app/
